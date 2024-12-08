@@ -1,0 +1,9 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleNotification
+metadata:
+  name: test-banner
+spec:
+  text: "This is a test"
+  location: BannerTop
+  color: "#000000" # Black text color
+  backgroundColor: "#FFD700" # Gold background color
