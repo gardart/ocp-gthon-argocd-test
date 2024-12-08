@@ -1,3 +1,2 @@
 resources:
-  - console.yaml
   - console-notification.yaml
